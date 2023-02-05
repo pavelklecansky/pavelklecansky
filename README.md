@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Pavel Klečanský
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java, Spring, Svelte, SQL
+- 🌱 I’m currently learning Java, Spring, Svelte, SQL, C
 - 📫 How to reach me pavel@klecansky.cz
