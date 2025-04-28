@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Pavel Klečanský
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Elixir and Phoenix.
 - 📫 How to reach me pavel@klecansky.cz
